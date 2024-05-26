@@ -45,16 +45,6 @@ MainWindow::MainWindow(QWidget *parent)
 
 
 
-
-
-
-
-
-
-
-
-
-
     //vt.gl=ui->openGLWidget;
 
     // std::thread([&]{
