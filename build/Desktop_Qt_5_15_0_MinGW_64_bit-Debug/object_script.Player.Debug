@@ -1,0 +1,14 @@
+debug/AudioPlay.o
+debug/AudioThread.o
+debug/Decode.o
+debug/Demux.o
+debug/DemuxThread.o
+debug/OpenGLWidget.o
+debug/Resample.o
+debug/Swscale.o
+debug/VideoThread.o
+debug/main.o
+debug/mainwindow.o
+debug/moc_OpenGLWidget.o
+debug/moc_VideoThread.o
+debug/moc_mainwindow.o

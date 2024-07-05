@@ -1,0 +1,14 @@
+release/AudioPlay.o
+release/AudioThread.o
+release/Decode.o
+release/Demux.o
+release/DemuxThread.o
+release/OpenGLWidget.o
+release/Resample.o
+release/Swscale.o
+release/VideoThread.o
+release/main.o
+release/mainwindow.o
+release/moc_OpenGLWidget.o
+release/moc_VideoThread.o
+release/moc_mainwindow.o
